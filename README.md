@@ -2,8 +2,6 @@
 
 A Python-based network packet analysis tool with both command-line and graphical interfaces.
 
-![Network Packet Sniffer](https://github.com/yourusername/network-packet-sniffer/raw/main/screenshots/gui_preview.png)
-
 ## Overview
 
 This Network Packet Sniffer allows you to capture and analyze network traffic in real-time. It provides detailed information about packets at various network layers (Link, Network, Transport) and identifies common protocols and services.
